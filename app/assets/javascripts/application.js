@@ -15,3 +15,4 @@
 //= require libs/backbone
 //= require libs/marionette
 //= require backbone/app
+//= require_tree ./backbone/apps
