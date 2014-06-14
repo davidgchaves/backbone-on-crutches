@@ -40,3 +40,6 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 # Use the Thin server instead of WEBrick
 gem 'thin', '~> 1.6.2'
+
+# Use Eco Templates
+gem 'eco', '~> 1.0.0'
