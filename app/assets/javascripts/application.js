@@ -14,5 +14,6 @@
 //= require libs/underscore
 //= require libs/backbone
 //= require libs/marionette
+//= require_tree ./backbone/config
 //= require backbone/app
 //= require_tree ./backbone/apps
