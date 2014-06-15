@@ -43,3 +43,7 @@ gem 'thin', '~> 1.6.2'
 
 # Use Eco Templates
 gem 'eco', '~> 1.0.0'
+
+# Add compass and bootstrap support for rails
+gem 'compass-rails', '~> 1.1.7'
+gem 'bootstrap-sass', '~> 3.1.1.1'
