@@ -1,1 +1,5 @@
-<div id="footer">This is the ECO Footer Template</div>
+<div id="footer">
+  <div class="container">
+    <p class="muted">This is the "sticky to the bottom" ECO Footer Template</p>
+  </div>
+</div>
